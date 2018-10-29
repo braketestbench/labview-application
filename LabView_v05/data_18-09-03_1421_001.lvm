@@ -1,0 +1,24 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	No
+X_Columns	Multi
+Time_Pref	Relative
+Operator	joaog
+Date	2018/09/03
+Time	14:21:15.1265454292297363281
+***End_of_Header***	
+	
+Channels	5									
+Samples	1		1		1		1		1	
+Date	2018/09/03		2018/09/03		2018/09/03		2018/09/03		2018/09/03	
+Time	14:21:15.1265454292297363281		14:21:15.1265454292297363281		14:21:15.1265454292297363281		14:21:15.1265454292297363281		14:21:15.1265454292297363281	
+Y_Unit_Label	degC		kgf		km/h		RPM		m	
+X_Dimension	Time		Time		Time		Time		Time	
+X0	0.0000000000000000E+0		0.0000000000000000E+0		0.0000000000000000E+0		0.0000000000000000E+0		0.0000000000000000E+0	
+Delta_X	1.000000		1.000000		1.000000		1.000000		1.000000	
+***End_of_Header***										
+X_Value	Temperature	X_Value	Force	X_Value	Speed	X_Value	Engine Speed	X_Value	Distance	Comment
+0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000
